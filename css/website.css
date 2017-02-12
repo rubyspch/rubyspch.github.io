@@ -8,6 +8,7 @@
 }
 body{
 	font-size: medium;
+	color: black;
 	background-image: url(../img/nyc_back.jpg);
 	background-attachment: fixed; 
 }
