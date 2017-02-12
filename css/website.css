@@ -20,10 +20,8 @@ body{
     border-right-width: 0px;
 }
 .ppph {
-	font-size: xx-large;
-	padding-top: 15px;
-	padding-left: 110px;
+	font-size: 45;
+	padding-left: 370px;
 }
-.seth {
+.navbar-default {
 	background-color: rgba(255, 255, 255, 0);
-}
