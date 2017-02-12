@@ -1,8 +1,28 @@
-.navbar {
+.back {
 	background-color: #333;
 }
 .card{
-	background-color: #ccc;
-	border-color: #ffffff;
+	background-color: #ffffff;
+	border-color: #ccc;
     margin-top: 10px;
+}
+body{
+	font-size: medium;
+	background-image: url(../img/nyc_back.jpg);
+	background-attachment: fixed; 
+}
+.bg-primary1 {
+	background-color: rgba(0,0,0,0);
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+}
+.ppph {
+	font-size: xx-large;
+	padding-top: 15px;
+	padding-left: 110px;
+}
+.seth {
+	background-color: rgba(255, 255, 255, 0);
 }
